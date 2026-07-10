@@ -1,16 +1,74 @@
-## Hi there 👋
+# Hi 👋, I'm Jerminn Rebekka
 
-<!--
-**J19012004/J19012004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Python Backend Developer | FastAPI | Flask | PostgreSQL
 
-Here are some ideas to get you started:
+🎓 B.E. Computer Science Engineering (2022–2026)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 Passionate about building scalable backend applications and REST APIs using Python.
+
+---
+
+## 🚀 Featured Projects
+
+### 🛒 E-commerce Backend System
+- FastAPI
+- PostgreSQL
+- SQLAlchemy
+- JWT Authentication
+- Role-Based Access Control
+- REST APIs
+- Deployed on Render
+
+🔗 https://github.com/J19012004/ecommerce-api
+
+---
+
+### ✅ Task Manager Web Application
+- Flask
+- SQLite
+- HTML
+- CSS
+- JavaScript
+- CRUD Operations
+
+🔗 https://github.com/J19012004/Task-Manager-Web-Application
+
+---
+
+## 🛠 Tech Stack
+
+**Languages**
+- Python
+- Java
+- JavaScript
+
+**Backend**
+- FastAPI
+- Flask
+
+**Frontend**
+- HTML
+- CSS
+- JavaScript
+
+**Databases**
+- PostgreSQL
+- MySQL
+- MongoDB
+- SQLite
+
+**Tools**
+- Git
+- GitHub
+- Postman
+- Render
+- VS Code
+
+---
+
+## 📫 Connect with Me
+
+📧 Email: jerminnrebekka8@gmail.com
+
+💼 LinkedIn:
+https://linkedin.com/in/jerminnrebekka19
