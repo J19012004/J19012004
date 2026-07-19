@@ -1,74 +1,195 @@
-# Hi 👋, I'm Jerminn Rebekka
+<h1 align="center">Hi 👋, I'm Jerminn Rebekka M</h1>
 
-### Python Backend Developer | FastAPI | Flask | PostgreSQL
-
-🎓 B.E. Computer Science Engineering (2022–2026)
-
-💡 Passionate about building scalable backend applications and REST APIs using Python.
+<h3 align="center">Python Full Stack Developer | Django • React.js • FastAPI • Flask</h3>
 
 ---
 
-## 🚀 Featured Projects
+## 👩‍💻 About Me
 
-### 🛒 E-commerce Backend System
-- FastAPI
-- PostgreSQL
-- SQLAlchemy
-- JWT Authentication
-- Role-Based Access Control
-- REST APIs
-- Deployed on Render
-
-🔗 https://github.com/J19012004/ecommerce-api
+- 🎓 B.E. Computer Science and Engineering (2022–2026)
+- 💻 Passionate about Full Stack Web Development
+- 🌱 Currently exploring scalable backend architectures and modern frontend development
+- 🚀 Interested in building secure, responsive, and user-centric web applications
+- 📫 Reach me at **jerminnrebekka8@gmail.com**
 
 ---
 
-### ✅ Task Manager Web Application
-- Flask
-- SQLite
-- HTML
-- CSS
-- JavaScript
-- CRUD Operations
+## 🚀 Tech Stack
 
-🔗 https://github.com/J19012004/Task-Manager-Web-Application
-
----
-
-## 🛠 Tech Stack
-
-**Languages**
+### Programming Languages
 - Python
 - Java
 - JavaScript
+- HTML5
+- CSS3
 
-**Backend**
+### Frontend
+- React.js
+- Bootstrap 5
+
+### Backend
+- Django
+- Django REST Framework
 - FastAPI
 - Flask
 
-**Frontend**
+### Databases
+- MySQL
+- PostgreSQL
+- SQLite
+
+### Tools & Technologies
+- Git
+- GitHub
+- Postman
+- VS Code
+- Axios
+- React Router
+- Chart.js
+- JWT Authentication
+- SQLAlchemy
+
+---
+
+# 📌 Featured Projects
+
+## 🎓 Smart Student Management System
+
+A full-stack student management application built using Django REST Framework and React.
+
+### Features
+- JWT Authentication
+- Student CRUD Operations
+- Department Management
+- Dashboard & Analytics
+- Rule-Based AI Student Performance Prediction
+- Responsive UI
+
+**Tech Stack**
+
+- Django
+- Django REST Framework
+- React.js (Vite)
+- Bootstrap
+- MySQL
+- Axios
+- Chart.js
+
+🔗 Repository:
+https://github.com/J19012004/smart-student-management-system
+
+---
+
+## 🏥 HealthSync – Smart Healthcare Management Platform
+
+A healthcare management platform supporting Admin, Doctor, and Patient workflows.
+
+### Features
+
+- Appointment Management
+- Electronic Health Records (EHR)
+- Prescription Management
+- Rule-Based AI Symptom Checker
+- JWT Authentication
+- Dashboard Analytics
+
+**Tech Stack**
+
+- Django
+- Django REST Framework
+- React.js (Vite)
+- Bootstrap
+- MySQL
+- Axios
+- Chart.js
+
+🔗 Repository:
+https://github.com/J19012004/health-sync
+
+---
+
+## 🛒 Ecommerce Backend API
+
+A production-ready backend for an e-commerce platform built with FastAPI.
+
+### Features
+
+- JWT Authentication
+- Role-Based Authorization
+- Product Management
+- Shopping Cart
+- Order Management
+- RESTful APIs
+- PostgreSQL Integration
+
+**Tech Stack**
+
+- FastAPI
+- SQLAlchemy
+- PostgreSQL
+- JWT Authentication
+
+🔗 Repository:
+https://github.com/J19012004/ecommerce-api
+
+---
+
+## ✅ Task Manager Web Application
+
+A CRUD-based task management web application developed using Flask.
+
+### Features
+
+- User Authentication
+- Task CRUD Operations
+- Responsive Interface
+- SQLite Database
+- RESTful APIs
+
+**Tech Stack**
+
+- Flask
+- SQLite
 - HTML
 - CSS
 - JavaScript
 
-**Databases**
-- PostgreSQL
-- MySQL
-- MongoDB
-- SQLite
-
-**Tools**
-- Git
-- GitHub
-- Postman
-- Render
-- VS Code
+🔗 Repository:
+https://github.com/J19012004/Task-Manager-Web-Application
 
 ---
 
-## 📫 Connect with Me
+# 📊 GitHub Stats
 
-📧 Email: jerminnrebekka8@gmail.com
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=J19012004&show_icons=true&theme=tokyonight" height="170"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=J19012004&theme=tokyonight" height="170"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=J19012004&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+# 🌱 Currently Learning
+
+- Advanced Django
+- React.js Best Practices
+- Backend Performance Optimization
+- Docker Fundamentals
+
+---
+
+# 🤝 Connect with Me
+
+📧 Email:
+**jerminnrebekka8@gmail.com**
 
 💼 LinkedIn:
 https://linkedin.com/in/jerminnrebekka19
+
+💻 GitHub:
+https://github.com/J19012004
+
