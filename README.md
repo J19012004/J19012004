@@ -19,12 +19,12 @@
 ### Programming Languages
 - Python
 - JavaScript
-- HTML5
-- CSS3
 
 ### Frontend
 - React.js
 - Bootstrap 5
+- HTML5
+- CSS3
 
 ### Backend
 - Django
