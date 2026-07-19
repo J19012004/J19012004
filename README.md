@@ -18,7 +18,6 @@
 
 ### Programming Languages
 - Python
-- Java
 - JavaScript
 - HTML5
 - CSS3
