@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jerminn Rebekka M</h1>
 
-<h3 align="center">Python Full Stack Developer | Django • React.js • FastAPI • Flask</h3>
+<h3 align="center">Python Full Stack Developer | AI & Generative AI Developer | Django • FastAPI • React.js</h3>
 
 ---
 
