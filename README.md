@@ -10,7 +10,6 @@
 - 💻 Passionate about Full Stack Web Development
 - 🌱 Currently exploring scalable backend architectures and modern frontend development
 - 🚀 Interested in building secure, responsive, and user-centric web applications
-- 📫 Reach me at **jerminnrebekka8@gmail.com**
 
 ---
 
@@ -52,7 +51,7 @@
 
 # 📌 Featured Projects
 
-## 🎓 Smart Student Management System
+## 🎓 Student Management System
 
 A full-stack student management application built using Django REST Framework and React.
 
@@ -61,7 +60,7 @@ A full-stack student management application built using Django REST Framework an
 - Student CRUD Operations
 - Department Management
 - Dashboard & Analytics
-- Rule-Based AI Student Performance Prediction
+- Rule-Based Student Performance Prediction
 - Responsive UI
 
 **Tech Stack**
@@ -88,7 +87,7 @@ A healthcare management platform supporting Admin, Doctor, and Patient workflows
 - Appointment Management
 - Electronic Health Records (EHR)
 - Prescription Management
-- Rule-Based AI Symptom Checker
+- Rule-Based Symptom Checker
 - JWT Authentication
 - Dashboard Analytics
 
@@ -158,19 +157,7 @@ https://github.com/J19012004/Task-Manager-Web-Application
 
 ---
 
-# 📊 GitHub Stats
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=J19012004&show_icons=true&theme=tokyonight" height="170"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=J19012004&theme=tokyonight" height="170"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=J19012004&layout=compact&theme=tokyonight"/>
-</p>
-
----
 
 # 🌱 Currently Learning
 
@@ -183,8 +170,6 @@ https://github.com/J19012004/Task-Manager-Web-Application
 
 # 🤝 Connect with Me
 
-📧 Email:
-**jerminnrebekka8@gmail.com**
 
 💼 LinkedIn:
 https://linkedin.com/in/jerminnrebekka19
